@@ -1,1 +1,5 @@
-/*blank css*/
+.selfie {
+    border-radius: 100%;
+    width: 200px; /* Adjust to your preferred width */
+    height: 200px;
+}
